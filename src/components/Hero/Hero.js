@@ -15,7 +15,9 @@ const Hero = () => (
         Welcome To <br />
         My Personal Portfolio
       </SectionTitle>
-      <SectionText>The purpose....</SectionText>
+      <SectionText>
+        Pushing myself to be expert about JavaScript, React and NodeJs.
+      </SectionText>
       <Button onClick={() => (window.location = 'https://www.google.com')}>
         Learn More
       </Button>
